@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tyke/static/css/main.073c9b0a.css",
+    "main.js": "/tyke/static/js/main.307785c5.js",
+    "static/js/787.55ea49f3.chunk.js": "/tyke/static/js/787.55ea49f3.chunk.js",
+    "static/media/download.png": "/tyke/static/media/download.be5edace7a1354dca447.png",
+    "static/media/Naveen-surya.webp": "/tyke/static/media/Naveen-surya.67f8c9246edeffe380b9.webp",
+    "static/media/FCC.webp": "/tyke/static/media/FCC.403d7a4bad789a468489.webp",
+    "static/media/fourth.webp": "/tyke/static/media/fourth.8540559e6387b3c2f2f8.webp",
+    "static/media/meet.webp": "/tyke/static/media/meet.cce630de250703973411.webp",
+    "static/media/avatar1.webp": "/tyke/static/media/avatar1.8520a72d9c96e68f70e2.webp",
+    "static/media/logo.svg": "/tyke/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/first.webp": "/tyke/static/media/first.0fdb506f2f29f579f59b.webp",
+    "static/media/Logo_with_text.svg": "/tyke/static/media/Logo_with_text.090a98f9c21788c35ab4acc86d0afa0c.svg",
+    "static/media/third.webp": "/tyke/static/media/third.bb713304d8c1bba3e4f1.webp",
+    "static/media/second.webp": "/tyke/static/media/second.a63bbdebcced10051f54.webp",
+    "index.html": "/tyke/index.html",
+    "main.073c9b0a.css.map": "/tyke/static/css/main.073c9b0a.css.map",
+    "main.307785c5.js.map": "/tyke/static/js/main.307785c5.js.map",
+    "787.55ea49f3.chunk.js.map": "/tyke/static/js/787.55ea49f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.307785c5.js"
+  ]
+}
